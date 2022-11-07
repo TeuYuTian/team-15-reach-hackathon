@@ -1,8 +1,4 @@
-# reach-Vue2-buysendsell
-
-## Vue2 version of buy-send-sell with Designer / Customer/ Transport selection and YES / NO (  with waitUntil methods )
-
-## Instructions
+# Uknity
 
 ### Open two cli
 - cli1 - ../reach compile ( generate build/index.main.mjs )
@@ -17,7 +13,5 @@
 ## TODO
 - Convert console.log to Vue templates - done
 - match backend methods to Vue methods
-- while loop if customer answer no 
-- while loop if transporter answer no 
 
-
+connect to .env.local wallet
